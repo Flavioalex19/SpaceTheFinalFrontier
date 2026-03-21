@@ -82,3 +82,5 @@ DerivedDataCache/*
 *.log
 StarRacer/Saved/Logs/StarRacer.log
 StarRacer/Saved/Logs/StarRacer.log
+*.ini
+*.json
