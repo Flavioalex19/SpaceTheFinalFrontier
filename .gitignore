@@ -77,3 +77,7 @@ DerivedDataCache/*
 /StarRacer/Intermediate
 /StarRacer/Intermediate
 /StarRacer/Saved
+*.log
+*.ini
+*.log
+StarRacer/Saved/Logs/StarRacer.log
