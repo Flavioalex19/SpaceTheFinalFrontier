@@ -85,3 +85,4 @@ StarRacer/Saved/Logs/StarRacer.log
 *.ini
 *.json
 *.bin
+/StarRacer/Saved
