@@ -87,3 +87,7 @@ StarRacer/Saved/Logs/StarRacer.log
 *.bin
 /StarRacer/Saved
 /StarRacer/Saved
+StarRacer/Intermediate/CachedAssetRegistry_0.bin
+StarRacer/Saved/AutoScreenshot.png
+StarRacer/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+StarRacer/Saved/Logs/StarRacer.log
