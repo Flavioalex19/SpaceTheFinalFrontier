@@ -48,7 +48,7 @@ public:
     void ReportLapPassed(ARacerBase* Racer);
 
     UFUNCTION(BlueprintCallable, Category="Race")
-    TArray<TObjectPtr<ARacerBase>> GetRacePositions() const;
+    TArray<ARacerBase*> GetRacePositions() const;
 
 protected:
     virtual void BeginPlay() override;
